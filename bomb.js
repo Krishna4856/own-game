@@ -1,0 +1,8 @@
+class Bomb{
+    constructor(){
+
+    }
+    display(){
+        
+    }
+}
